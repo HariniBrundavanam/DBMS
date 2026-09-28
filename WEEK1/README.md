@@ -1,2 +1,13 @@
-<img width="438" height="130" alt="image" src="https://github.com/user-attachments/assets/3caeac9f-015f-4f9b-b458-1567b78fe0c9" />
+Week 1 - BookFlow Library Database
+This folder contains the SQL implementation and output screenshots for Week 1.
 
+Topics Covered
+Database Creation
+Table Creation
+Primary Key
+NOT NULL
+UNIQUE Constraint
+CHECK Constraint
+INSERT Operations
+DESCRIBE Table
+Constraint Testing
